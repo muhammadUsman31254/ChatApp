@@ -1,4 +1,5 @@
 .env
+.streamlit/secrets.toml
 *.pyc
 __pycache__/
 chatapp.db
