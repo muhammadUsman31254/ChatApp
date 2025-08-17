@@ -1,4 +1,3 @@
-# README.md
 
 # 🤖 AI Chat Assistant
 
@@ -15,7 +14,7 @@ A powerful conversational AI assistant built with LangGraph and Streamlit, featu
 
 ## 🚀 Live Demo
 
-**[Try it live on Streamlit Cloud](https://chat-app.streamlit.app)** 
+**[Try it live on Streamlit Cloud](https://ottoman-chat-app.streamlit.app)** 
 
 ## 🛠️ Technology Stack
 
