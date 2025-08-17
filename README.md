@@ -14,7 +14,7 @@ A powerful conversational AI assistant built with LangGraph and Streamlit, featu
 
 ## 🚀 Live Demo
 
-**[Try it live on Streamlit Cloud](https://ottoman-chat-app.streamlit.app)** 
+**[Try it live on Streamlit Cloud](https://ottoman-chatapp.streamlit.app/)** 
 
 ## 🛠️ Technology Stack
 
